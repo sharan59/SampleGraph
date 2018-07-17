@@ -7,4 +7,4 @@ Step-2 :
 After installation of modules type ng serve which runs the project in local server.
 
 Step-3 :
-Next open browser an place the following url : http://localhost:4200/
+Next open browser and place the following url : http://localhost:4200/
